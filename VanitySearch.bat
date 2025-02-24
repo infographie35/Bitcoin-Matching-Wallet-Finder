@@ -1,0 +1,1 @@
+vanitysearch.exe -gpu -i scan.txt -o result.txt
