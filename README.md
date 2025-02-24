@@ -19,7 +19,7 @@ It automatically terminates the external process when the file reaches a set siz
 
 - Python 3.x
 - `tqdm` package (for progress bar)
-- VanitySearch.exe https://github.com/JeanLucPons/VanitySearch/releases
+- copy VanitySearch.exe in script folder - https://github.com/JeanLucPons/VanitySearch/releases
 
 ## How to start
 
