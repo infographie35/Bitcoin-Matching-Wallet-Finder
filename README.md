@@ -1,6 +1,6 @@
 # Bitcoin Matching Wallet Finder
 
-A lightweight Python tool that monitor cuda Bitcoin generator address starting with 1, and checks them against a predefined address list. 
+A lightweight Python tool that monitor cuda Bitcoin generator address starting with 1 (legacy), and checks them against a predefined address list. 
 
 It automatically terminates the external process when the file reaches a set size and updates three live statistics:
 
